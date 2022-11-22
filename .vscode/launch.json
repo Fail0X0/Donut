@@ -9,7 +9,7 @@
       "stopAtEntry": false,
       "externalConsole": true,
       "cwd": "c:/Users/HFD1LO/Desktop/Dounut",
-      "program": "c:/Users/HFD1LO/Desktop/Dounut/build/Debug/outDebug",
+      "program": "c:/Users/HFD1LO/Desktop/Donut/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
